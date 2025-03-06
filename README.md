@@ -1,4 +1,5 @@
-# ResumeMatch AI  
+# Application-Tracking-System
+
 *A Smart Applicant Tracking System for Resume Optimization*
 
 ---
