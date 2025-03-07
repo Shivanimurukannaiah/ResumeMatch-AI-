@@ -97,6 +97,6 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 ## 📧 Contact  
 
 For questions or feedback, reach out to:  
-Hema Kalyan Murapaka - kalyanmurapaka274@gmail.com
+shivani Murukannaiah - shivanimurukannaiah@gmail.com
 
 ---
